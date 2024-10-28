@@ -1,0 +1,9 @@
+matplotlib==3.8.4
+numpy==2.1.2
+pandas==2.2.3
+Pillow==11.0.0
+scikit_learn==1.5.2
+torch==2.4.1
+torch==2.5.0
+torchvision==0.19.1
+torchvision==0.20.0
